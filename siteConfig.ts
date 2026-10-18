@@ -3,7 +3,7 @@
 export const siteConfig = {
   // 1. 网站标题与博主信息
   title: "酌墨的博客",
-  faviconUrl: "https://i0.hdslb.com/bfs/article/1a183428f63f38d35b90f3ff7571963f4070943.png",
+  faviconUrl: "https://kkimgs.yisou.com/ims?kt=url&at=ori&key=aHR0cHM6Ly9nZC1oYmltZy5odWFiYW4uY29tL2NmYWMzMzg5YTc2YmZmOTQwMmYxMjZiMDlmM2RmYTRhM2VkYzU1MmYxOGM4NjYtUlZ0N3JuX2Z3NjU4d2VicA==&sign=yx:pbFBH1YWuapOSY5rzFkNfhrESvs=&tv=0_0",
   authorName: "酌墨",
   bio: "研究美术与技术中",
 
@@ -15,21 +15,21 @@ export const siteConfig = {
   navAfter: "博客",
 
   // 2. 头像设置 (支持网络链接，或将图片放入 public 文件夹后使用 "/me.jpg")
-  avatarUrl: "https://i0.hdslb.com/bfs/article/1a183428f63f38d35b90f3ff7571963f4070943.png",
+  avatarUrl: "https://kkimgs.yisou.com/ims?kt=url&at=ori&key=aHR0cDovL2ltZy5haWdleGluZy5jb20vdXBsb2Fkcy82LzEyNTMvMzI5NDE3NDc2MS85MTc4MzkxNDY2MS8xMDY1NTc1MjUuanBn&sign=yx:A86IBGtylHgHBkeV6Ht0ZGI2B3c=&tv=0_0",
 
   // 3. 网站背景设置 (二选一)
   // 如果想用纯图片背景，请在下面 bgImage 写路径，并将 useGradient 设为 false
   useGradient: false,
   themeColors: ["#a18cd1", "#fbc2eb", "#a1c4fd", "#c2e9fb"], // 呼吸流动的颜色组合
 // 修改这里：变成图片数组
-  bgImages: ["https://bu.dusays.com/2026/03/24/69c1e38b4c370.jpg", "https://i0.hdslb.com/bfs/new_dyn/53a61253eb1b78ae563383810587da6b7198052.jpg"],
+  bgImages: ["https://bu.dusays.com/2026/03/24/69c1e38b4c370.jpg", "http://kkimgs.yisou.com/ims?kt=url&at=ori&key=aHR0cDovL2kwLmhkc2xiLmNvbS9iZnMvYXJ0aWNsZS9lY2QwZTdiMzI1ZTExMjdlNTM3NjFhNTAzZTY5YTQ3MzM2NDQ2NDkxMC5wbmc=&sign=yx:hiV0Ty-xC6I9v2iqhZV8QaUlbH8=&tv=0_0"],
 
   // 4. 文章默认封面图 (当 Markdown 没写 cover 时显示)
   defaultPostCover: "https://bu.dusays.com/2026/03/24/69c1e38b346cb.jpg",
 
   // 5. 首页照片墙预览图
   photoWallImage: "https://bu.dusays.com/2026/03/24/69c1e38b4c370.jpg",
-  cloudMusicIds: ["1809646618", "3361076230", "1859390262"],
+  cloudMusicIds: ["2622463205"],
   social: {
     github: "暂无",
     gitee: "暂无",
