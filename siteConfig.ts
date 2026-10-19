@@ -3,7 +3,7 @@
 export const siteConfig = {
   // 1. 网站标题与博主信息
   title: "酌墨的博客",
-  faviconUrl: "https://kkimgs.yisou.com/ims?kt=url&at=ori&key=aHR0cHM6Ly9nZC1oYmltZy5odWFiYW4uY29tL2NmYWMzMzg5YTc2YmZmOTQwMmYxMjZiMDlmM2RmYTRhM2VkYzU1MmYxOGM4NjYtUlZ0N3JuX2Z3NjU4d2VicA==&sign=yx:pbFBH1YWuapOSY5rzFkNfhrESvs=&tv=0_0",
+  faviconUrl: "https://htmlhoster.com/p/8QNC1G44/图标1.png",
   authorName: "酌墨",
   bio: "研究美术与技术中",
 
@@ -15,7 +15,7 @@ export const siteConfig = {
   navAfter: "博客",
 
   // 2. 头像设置 (支持网络链接，或将图片放入 public 文件夹后使用 "/me.jpg")
-  avatarUrl: "https://kkimgs.yisou.com/ims?kt=url&at=ori&key=aHR0cDovL2ltZy5haWdleGluZy5jb20vdXBsb2Fkcy82LzEyNTMvMzI5NDE3NDc2MS85MTc4MzkxNDY2MS8xMDY1NTc1MjUuanBn&sign=yx:A86IBGtylHgHBkeV6Ht0ZGI2B3c=&tv=0_0",
+  avatarUrl: "https://htmlhoster.com/p/8QNC1G44/图标1.png",
 
   // 3. 网站背景设置 (二选一)
   // 如果想用纯图片背景，请在下面 bgImage 写路径，并将 useGradient 设为 false
