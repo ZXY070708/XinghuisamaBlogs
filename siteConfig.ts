@@ -29,7 +29,7 @@ export const siteConfig = {
 
   // 5. 首页照片墙预览图
   photoWallImage: "https://bu.dusays.com/2026/03/24/69c1e38b4c370.jpg",
-  cloudMusicIds: ["2622463205"],
+  cloudMusicIds: ["2622463205", "2756678020"],
   social: {
     github: "暂无",
     gitee: "暂无",
